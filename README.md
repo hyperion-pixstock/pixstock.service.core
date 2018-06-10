@@ -1,1 +1,1 @@
-"# pixstock.service.core" 
+# Pixstock.Service.Core
